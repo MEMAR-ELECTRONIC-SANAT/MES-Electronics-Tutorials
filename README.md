@@ -1,5 +1,9 @@
 
 # معمار الکترونیک صنعت
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
+</p>
 ## MEMAR ELECTRONIC SANAT (MES)
 
 ### همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
@@ -23,6 +27,11 @@ This repository provides electronics tutorials, technical documentation, electro
 Our goal is to share practical engineering knowledge and support the development of reliable electronic circuits.
 
 ---
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="Engineering, Design and Build">
+</p>
 
 ## 📖 دسته‌بندی آموزش‌ها | Tutorial Categories
 
@@ -77,6 +86,11 @@ Our goal is to share practical engineering knowledge and support the development
 
 ---
 
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="MES project showcase">
+</p>
+
 ## 📥 دانلود آموزش‌ها | Download Tutorials
 
 تمام آموزش‌ها و مستندات این مجموعه در قالب PDF منتشر می‌شوند.
@@ -128,6 +142,11 @@ Our goal is to share practical engineering knowledge and support the development
 
 ---
 
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Engineering Workspace">
+</p>
+
 ## 📌 به‌روزرسانی‌ها | Updates
 
 آموزش‌ها و مستندات فنی جدید به مرور به این مخزن اضافه خواهند شد.
@@ -151,3 +170,7 @@ Electronics Design | PCB Design | Embedded Systems | Industrial Electronics
 
 ![MES Divider](Images/MES-Divider.svg)
 
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
+</p>
