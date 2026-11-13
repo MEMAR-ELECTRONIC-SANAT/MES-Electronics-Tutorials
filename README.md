@@ -168,7 +168,9 @@ Electronics Design | PCB Design | Embedded Systems | Industrial Electronics
 
 ---
 
-![MES Divider](Images/MES-Divider.svg)
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
+</p>
 
 
 <p align="center">
